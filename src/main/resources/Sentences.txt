@@ -1,0 +1,1 @@
+Welcome to the scala-arm project! This project aims to provide Automatic-Resource-Management via a robust library with an easy-to-use interface. The project aims to support 80% of ARM-related use cases, along with allowing customisation for the remaining cases. The library uses a lot of advanced features
