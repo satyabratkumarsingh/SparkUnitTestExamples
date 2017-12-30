@@ -21,7 +21,7 @@ libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.4" % "test"
 libraryDependencies += "com.google.code.gson" % "gson" % "2.8.0"
 libraryDependencies += "com.typesafe.akka" %% "akka-actor" % "2.4.14"
 libraryDependencies ++= Seq(
-  "org.apache.kafka"           % "kafka_2.11"           % "0.8.2.0",
+  "org.apache.kafka"           % "kafka_2.11"           % "0.8.2.1",
   "org.apache.spark" %% "spark-streaming-kafka-0-10" % "2.0.1"
 
 )
